@@ -1,2 +1,6 @@
 # learning-log
-Today I Learned
+
+사실상 일기입니다.
+
+
+오늘 있었던일, 배운 것, 기억 할 것을 기록합니다.
